@@ -4,6 +4,8 @@ A mobile application that provides the current air quality index in a given city
 
 Created using React, React-Bootstrap, HTML
 
+[DEMO](https://clever-noether-b32fd8.netlify.app/)
+
 ## Images 
 
 ### Homepage 
