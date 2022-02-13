@@ -1,0 +1,29 @@
+{
+  "_colorDesc": {
+    "grey": "#bbbbbb",
+    "blue": "#59bfff",
+    "lightGreen": "#7BE61A",
+    "yellow": "#FFE733",
+    "lightOrange": "#FFAA1C",
+    "darkOrange": "#FF8C01",
+    "red": "#ED2938"
+  },
+  "colors": {
+    "error": "#bbbbbb",
+    "default": "#59bfff",
+    "Good": "#7BE61A",
+    "Moderate": "#FFE733",
+    "Unhealthy For Sensitive Groups": "#FFAA1C",
+    "Unhealthy": "#FF8C01",
+    "Very Unhealthy": "#ED2938",
+    "Hazardous": "#ED2938"
+  },
+  "icons": {
+    "Rain": "Rain.svg",
+    "Drizzle": "Drizzle.svg",
+    "Clouds": "Clouds.svg",
+    "Clear": "Clear.svg",
+    "Snow": "Snow.svg",
+    "Thunderstorm": "Thunderstorm.svg"
+  }
+}
