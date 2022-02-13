@@ -16,8 +16,11 @@ Users can find AQI information by city name
 
 The current AQI will be provided, along with a description of the air quality. The website header is color-coordinated to match the current air quality 
 
+![Search Results](https://user-images.githubusercontent.com/86705418/153747751-c9e9334e-f4a8-4115-9a10-3fb5310fd7ae.jpg)
+
 ### AQI Forecast 
 
 In addition to the current AQI, users will also be provided with a 3-day AQI forecast
 
+![AQI Forecast](https://user-images.githubusercontent.com/86705418/153747756-a384aaf7-35a8-4dcb-96be-ca005204f555.jpg)
 
